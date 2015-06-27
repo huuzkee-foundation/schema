@@ -1,3 +1,5 @@
 schema
 ======
-[![Build Status](https://travis-ci.org/gorilla/schema.png?branch=master)](https://travis-ci.org/gorilla/schema)
+[![Build Status](https://travis-ci.org/huuzkee-go/schema/.png?branch=master)](https://travis-ci.org/huuzkee-go/schema/)
+
+
